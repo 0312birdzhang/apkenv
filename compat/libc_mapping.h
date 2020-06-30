@@ -9,7 +9,7 @@
 {"openat", openat},
 {"read", read},
 {"write", write},
-{"writev", writev},
+{"writev", write},
 {"lseek", lseek},
 {"select", select},
 {"close", close},
