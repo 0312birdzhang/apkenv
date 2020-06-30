@@ -1,3 +1,4 @@
+#include <signal.h>
 {"bsd_signal", bsd_signal},
 {"strcasecmp", my_strcasecmp},
 {"mprotect", mprotect},
